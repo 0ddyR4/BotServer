@@ -1,0 +1,9 @@
+{
+	"ip":"Cuanisasi.aternos.me",
+	"port": "23883",
+	"name": "Ini Bot? Kamu Bohong",
+	"auto-night-skip":"true",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
